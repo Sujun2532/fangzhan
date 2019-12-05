@@ -1,0 +1,150 @@
+#logo {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+#word {
+    position: absolute;
+    font-size: 1%;
+    top: 10px;
+    left:65px;
+}
+#word2 {
+    position: absolute;
+    font-size: 65%;
+    top: 15px;
+    left:65px;
+}
+#hl {
+    float: right;
+
+}
+ul li {
+    display: inline;
+    margin:  0px 20px 0px 50px;
+
+
+}
+#c1 {
+    position: absolute;
+    top: 190px;
+    left:940px;
+    font-size: 250%;
+}
+#c2 {
+    position: absolute;
+    top: 300px;
+    left: 940px;
+    font-size: 250%;
+
+}
+#c5 {
+  position: absolute;
+  top:  240px;
+  left:   800px;
+  font-size: 250%;
+}
+#c3 {
+  position: absolute;
+  top:    130px;
+  left:   670px;
+  font-size: 250%;
+}
+#c6 {
+  position: absolute;
+  top:     240px;
+  left:    670px;
+  font-size: 250%;
+}
+#c7 {
+  position: absolute;
+  top:    350px;
+  left:   670px;
+  font-size: 250%;
+}
+#c8 {
+  position: absolute;
+  top:    240px;
+  left:   530px;
+  font-size: 250%;
+}
+#c4 {
+  position:absolute;
+  top:     190px;
+  left:    400px;
+  font-size:  250%;
+}
+#c9 {
+  position: absolute;
+  top:    300px;
+  left:    400px;
+  font-size:  250%;
+}
+#word3 {
+  position: absolute;
+  top:      5px;
+  left:     200px;
+}
+#pict {
+  position: absolute;
+  top:      500px;
+  left:     540px;
+}
+#img {
+  position: absolute;
+  top:      750px;
+  left:     80px;
+}
+.newsList {
+  position:absolute;
+  top:     750px;
+  left:    300px;
+  font-size:  150%;
+}
+.schedule {
+  position: absolute;
+  top:      830px;
+  left:     300px;
+}
+#newsList2 {
+  position:absolute;
+  top:     850px;
+  left:    310px;
+  font-size:  150%;
+}
+#img2 { position: absolute;
+  top:      851px;
+  left:     80px;
+}
+.schedule2 {
+  position: absolute;
+  top:      930px;
+  left:     300px;
+}
+.inner {
+  width:   250px;
+  height:  100px;
+  position: absolute;
+  top:      770px;
+  left:     900px;
+  background: #006d80;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(0, 109, 128)
+}
+.inner2 {
+  position:absolute;
+  top:     810px;
+  left:    970px;
+  font-size:  100%;
+}
+.lead {
+  
+}
